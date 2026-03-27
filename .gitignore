@@ -2,7 +2,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+<<<<<<< HEAD
 .kotlin
+=======
+>>>>>>> 21340d5 (My Jenkins)
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
